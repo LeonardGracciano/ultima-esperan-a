@@ -1,0 +1,15 @@
+.div1{
+    border:transparent;
+    color:black;
+    width: 400px;;
+    height:fit-content;
+    
+}
+.superdiv{
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+body{
+ background-image: url("orla3.png");
+ background-size: cover;
+}
